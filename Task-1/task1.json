@@ -1,0 +1,19 @@
+
+{
+  "records" :
+  [{"investorId" : "1","syndicateId" : "30","transactionAmount" : 200,"transactionDate" : "10-12-21"},
+  {"investorId" : "2","syndicateId" : "31","transactionAmount" : 210,"transactionDate" : "04-08-22"},
+  {"investorId" : "3","syndicateId" : "30","transactionAmount" : 280,"transactionDate" : "18-05-20"},
+  {"investorId" : "1","syndicateId" : "33","transactionAmount" : 100,"transactionDate" : "20-01-19"},
+  {"investorId" : "2","syndicateId" : "34","transactionAmount" : 500,"transactionDate" : "04-03-22"},
+  {"investorId" : "3","syndicateId" : "35","transactionAmount" : 300,"transactionDate" : "12-07-22"},
+  {"investorId" : "6","syndicateId" : "36","transactionAmount" : 20,"transactionDate" : "11-05-20"},
+  {"investorId" : "5","syndicateId" : "37","transactionAmount" : 310,"transactionDate" : "10-12-22"},
+  {"investorId" : "7","syndicateId" : "30","transactionAmount" : 260,"transactionDate" : "10-08-21"},
+  {"investorId" : "4","syndicateId" : "33","transactionAmount" : 400,"transactionDate" : "03-03-22"},
+  {"investorId" : "1","syndicateId" : "33","transactionAmount" : 480,"transactionDate" : "11-12-21"},
+  {"investorId" : "8","syndicateId" : "34","transactionAmount" : 650,"transactionDate" : "04-06-21"},
+  {"investorId" : "4","syndicateId" : "30","transactionAmount" : 720,"transactionDate" : "02-03-22"},
+  {"investorId" : "3","syndicateId" : "34","transactionAmount" : 800,"transactionDate" : "01-05-20"},
+  {"investorId" : "10","syndicateId" : "33","transactionAmount" : 80,"transactionDate" : "18-03-20"}]
+}
